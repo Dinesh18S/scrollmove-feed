@@ -1,0 +1,262 @@
+{
+  "id": "train-week-2026-10-19",
+  "title": "Master, week of 2026-10-19",
+  "puzzles": [
+    {
+      "id": "uhDOd",
+      "fen": "8/6p1/7p/3k2P1/R2P1K1P/3r4/8/8 b - - 0 62",
+      "moves": "d3d4 a4d4 d5d4 f4f5",
+      "rating": 2003,
+      "themes": "crushing defensiveMove endgame rookEndgame short",
+      "gameUrl": "https://lichess.org/tPW1gpqT/black#124"
+    },
+    {
+      "id": "evXpz",
+      "fen": "r2q1rk1/4bppp/1nb1p3/p2pP2N/2pP4/1pP1QN2/1P1B1PPP/R3R1K1 b - - 1 21",
+      "moves": "g7g6 e3h6 g6h5 f3g5 e7g5 d2g5 f7f6 g5f6 f8f6 e5f6",
+      "rating": 2018,
+      "themes": "advantage middlegame sacrifice veryLong",
+      "gameUrl": "https://lichess.org/HBHFWa1n/black#42"
+    },
+    {
+      "id": "XiIpu",
+      "fen": "2kr4/pp3pp1/2p5/5bPp/3rNq1P/8/PPP1RPBQ/R6K b - - 0 25",
+      "moves": "d4e4 e2e4 f4h2 h1h2 f5e4 g2e4",
+      "rating": 2033,
+      "themes": "advantage long master middlegame",
+      "gameUrl": "https://lichess.org/ewKf60km/black#50"
+    },
+    {
+      "id": "gxdtI",
+      "fen": "8/5p2/1p2p3/pBk5/P7/6P1/3p1P1K/2qQ4 w - - 6 38",
+      "moves": "b5e2 c1d1 e2d1 b6b5 a4b5 c5b5",
+      "rating": 2037,
+      "themes": "crushing endgame long master",
+      "gameUrl": "https://lichess.org/DhBAMe7r#75"
+    },
+    {
+      "id": "1DdsB",
+      "fen": "r2q1rk1/1p1nbp2/4pn1Q/p2p4/3P3P/2N2N2/PPP2PP1/2KR3R b - - 0 13",
+      "moves": "f8e8 h1h3 e7d6 f3e5 d6e5 d4e5",
+      "rating": 2054,
+      "themes": "advantage long middlegame quietMove",
+      "gameUrl": "https://lichess.org/ZyKyACJ6/black#26"
+    },
+    {
+      "id": "MKJI2",
+      "fen": "r6r/pQ2bkpp/3Bbq2/8/8/8/PPP1NPPP/2K1R3 b - - 2 20",
+      "moves": "a8b8 d6b8 f6f2 b8g3 f2e3 c1b1",
+      "rating": 2058,
+      "themes": "advantage long master middlegame",
+      "gameUrl": "https://lichess.org/yaEO3qZb/black#40"
+    },
+    {
+      "id": "Bc8CP",
+      "fen": "4r3/Q6p/B1pk1p2/6p1/2P1b3/5nPK/P4P1P/8 w - - 0 36",
+      "moves": "a7f7 g5g4 h3g4 f3e5 g4f4 e5f7",
+      "rating": 2081,
+      "themes": "attraction crushing endgame fork long",
+      "gameUrl": "https://lichess.org/h9QJsdCr#71"
+    },
+    {
+      "id": "FohKZ",
+      "fen": "r6r/1p2q3/2p3k1/p1PpBnp1/3P1n2/P6P/1P1Q3K/5RR1 w - - 0 36",
+      "moves": "d2f4 h8h3 h2h3 e7h7 h3g2 g5f4",
+      "rating": 2096,
+      "themes": "attraction crushing long middlegame sacrifice",
+      "gameUrl": "https://lichess.org/s5vyTwTW#71"
+    },
+    {
+      "id": "Fxpi1",
+      "fen": "8/3k4/2p3p1/2Pp1p1p/1P1K1P1P/8/6P1/8 b - - 0 37",
+      "moves": "d7c7 b4b5 c6b5 d4d5 b5b4 d5c4 b4b3 c4b3",
+      "rating": 2127,
+      "themes": "crushing deflection endgame pawnEndgame veryLong zugzwang",
+      "gameUrl": "https://lichess.org/oRuwm7CA/black#74"
+    },
+    {
+      "id": "PLD2M",
+      "fen": "8/2r2pk1/5q1p/p3R3/3pQ3/6P1/4PP1P/2rR2K1 w - - 1 32",
+      "moves": "e4g4 g7f8 e5a5 c1d1",
+      "rating": 2129,
+      "themes": "crushing defensiveMove endgame master pin short",
+      "gameUrl": "https://lichess.org/K9GWOqHf#63"
+    },
+    {
+      "id": "hOVtF",
+      "fen": "5rk1/p4ppp/qp2p3/6b1/1Q1N4/P3P3/1PR2PPP/6K1 b - - 0 24",
+      "moves": "f8c8 b4b5 a6b7 b5g5",
+      "rating": 2133,
+      "themes": "advantage endgame short",
+      "gameUrl": "https://lichess.org/bXxmF5WG/black#48"
+    },
+    {
+      "id": "aE2qD",
+      "fen": "8/2k5/1p6/6PP/2Kn4/8/8/8 b - - 2 66",
+      "moves": "d4f3 g5g6 f3e5 c4d5 e5g4 d5e6",
+      "rating": 2146,
+      "themes": "crushing defensiveMove endgame knightEndgame long master",
+      "gameUrl": "https://lichess.org/rMsMQJ6S/black#132"
+    },
+    {
+      "id": "pjMbX",
+      "fen": "8/p1p5/1pPb1k2/1P1P1n2/P5Kp/8/5P2/4R3 b - - 1 48",
+      "moves": "f5d4 e1e4 d4b3 e4e6",
+      "rating": 2152,
+      "themes": "crushing endgame short",
+      "gameUrl": "https://lichess.org/zDBxYp3C/black#96"
+    },
+    {
+      "id": "O5Hs9",
+      "fen": "r3k1nr/pp2q2p/2p1bpp1/4p3/2B1P3/N1B5/P2Q1PPP/3R2K1 b kq - 5 17",
+      "moves": "e7a3 c3b4 a3b4 d2b4",
+      "rating": 2166,
+      "themes": "advantage middlegame short",
+      "gameUrl": "https://lichess.org/OBtLxZQ8/black#34"
+    },
+    {
+      "id": "EYBme",
+      "fen": "5B2/7r/p6P/5k2/5P2/P5K1/8/8 b - - 0 57",
+      "moves": "f5g6 f8g7 h7g7 h6g7",
+      "rating": 2170,
+      "themes": "advancedPawn crushing endgame master quietMove short",
+      "gameUrl": "https://lichess.org/1MZG2ijk/black#114"
+    },
+    {
+      "id": "uRNGT",
+      "fen": "2kq3r/pp6/3bpp2/PP1pn1p1/8/2P1P3/2B1QPPP/RN3RK1 w - - 3 24",
+      "moves": "f1d1 h8h2 c2f5 e6f5",
+      "rating": 2170,
+      "themes": "crushing middlegame short",
+      "gameUrl": "https://lichess.org/HQ0Jl8QS#47"
+    },
+    {
+      "id": "GeQi9",
+      "fen": "5bk1/7p/3p2p1/q2P1b2/2rBRP2/8/P3Q2P/K2R4 w - - 0 30",
+      "moves": "e4e8 c4c2 e2c2 f5c2",
+      "rating": 2203,
+      "themes": "crushing master middlegame short",
+      "gameUrl": "https://lichess.org/rKJp7T1Z#59"
+    },
+    {
+      "id": "d3n2h",
+      "fen": "8/8/p3k3/Pp1p1rp1/1PpR2K1/2P1P3/3P4/8 b - - 6 49",
+      "moves": "e6e5 d4d5 e5d5 g4f5 d5d6 e3e4",
+      "rating": 2205,
+      "themes": "crushing defensiveMove deflection endgame long rookEndgame",
+      "gameUrl": "https://lichess.org/34qzfHQR/black#98"
+    },
+    {
+      "id": "gKrSc",
+      "fen": "r1bq1rk1/1pp2pp1/1b5p/p2n4/2B1p1n1/P1PP1N2/1P2RPPP/R1BQ1NK1 w - - 0 15",
+      "moves": "d3e4 d5c3 d1c2 c3e2",
+      "rating": 2208,
+      "themes": "advantage opening short",
+      "gameUrl": "https://lichess.org/E6NbZ9q4#29"
+    },
+    {
+      "id": "S1Y36",
+      "fen": "6r1/p1p5/1p2k2P/8/2P2p2/4nB1P/P2B3K/8 w - - 1 33",
+      "moves": "d2e3 f4e3 f3d5 e6f6 d5g8 e3e2 h6h7 f6g7",
+      "rating": 2238,
+      "themes": "advancedPawn crushing endgame sacrifice veryLong",
+      "gameUrl": "https://lichess.org/jMzEL76e#65"
+    },
+    {
+      "id": "XLSHJ",
+      "fen": "r3q1k1/pp4p1/2p1b2r/2Pp3n/3PPN2/2NQ2p1/PP4P1/R4RK1 w - - 1 25",
+      "moves": "e4d5 h5f4 f1f4 e8h5 d3g3 h5h1 g1f2 h1a1",
+      "rating": 2252,
+      "themes": "advantage clearance middlegame skewer veryLong",
+      "gameUrl": "https://lichess.org/TFQi96hI#49"
+    },
+    {
+      "id": "kZ7eG",
+      "fen": "5k2/3pR3/2pP2pK/4Bb2/7P/8/3r4/8 b - - 3 45",
+      "moves": "c6c5 h6h7 g6g5 h7h8 d2d6 e5d6",
+      "rating": 2266,
+      "themes": "crushing endgame long master",
+      "gameUrl": "https://lichess.org/otrXWBYL/black#90"
+    },
+    {
+      "id": "B1Gni",
+      "fen": "r4rk1/p1p1qppp/8/3pPb2/2p5/6Q1/PPPBRPPP/R5K1 b - - 3 18",
+      "moves": "f5c2 d2g5 e7e6 e2c2",
+      "rating": 2283,
+      "themes": "crushing discoveredAttack middlegame short",
+      "gameUrl": "https://lichess.org/CGAOJrU5/black#36"
+    },
+    {
+      "id": "0V6jW",
+      "fen": "8/2R3KP/8/p2r4/8/k7/8/8 b - - 0 66",
+      "moves": "d5g5 g7h6 g5g3 c7c5 g3h3 c5h5 h3h5 h6h5",
+      "rating": 2295,
+      "themes": "crushing defensiveMove endgame rookEndgame veryLong",
+      "gameUrl": "https://lichess.org/1QXoHxqX/black#132"
+    },
+    {
+      "id": "xVhin",
+      "fen": "8/7p/5p2/ppp1k3/6PP/1PP2K2/P7/8 w - - 0 36",
+      "moves": "h4h5 h7h6 f3e3 f6f5 g4f5 e5f5",
+      "rating": 2305,
+      "themes": "crushing endgame long pawnEndgame quietMove",
+      "gameUrl": "https://lichess.org/QPDqyjXV#71"
+    },
+    {
+      "id": "0MJbJ",
+      "fen": "8/8/8/5pkp/3R4/5PK1/4r1P1/8 w - - 0 56",
+      "moves": "d4h4 e2g2 g3h3 g2h2 h3h2 g5h4 h2g2 h4g5",
+      "rating": 2309,
+      "themes": "crushing deflection endgame rookEndgame veryLong",
+      "gameUrl": "https://lichess.org/yCKZkRkg#111"
+    },
+    {
+      "id": "HaWKZ",
+      "fen": "r1bq1rk1/pp4b1/2n1p2Q/3p4/3P4/2PB3P/PP3P2/RN2K1R1 b Q - 2 16",
+      "moves": "d8f6 h6h7 g8f7 g1g6",
+      "rating": 2317,
+      "themes": "advantage opening short",
+      "gameUrl": "https://lichess.org/LDVSyZBe/black#32"
+    },
+    {
+      "id": "UB1pt",
+      "fen": "r4r2/pp2Qpk1/2b3q1/4p3/3pP2p/3P1R2/PPP3B1/5RK1 b - - 1 26",
+      "moves": "a8e8 e7h4 f8h8 h4f2",
+      "rating": 2348,
+      "themes": "crushing master middlegame short",
+      "gameUrl": "https://lichess.org/jZhEBOo5/black#52"
+    },
+    {
+      "id": "gVVdO",
+      "fen": "2r3k1/1Q3pp1/1p5p/p7/8/7P/Pq3PP1/4R1K1 b - - 1 25",
+      "moves": "c8c2 e1e8 g8h7 b7f7 b2f6 f7g8 h7g6 e8e6",
+      "rating": 2360,
+      "themes": "advantage deflection endgame pin veryLong",
+      "gameUrl": "https://lichess.org/052CHjcM/black#50"
+    },
+    {
+      "id": "c2Tmh",
+      "fen": "1R3Bk1/p4p2/4p1p1/3b3p/6P1/4KP2/P2r3P/8 b - - 2 29",
+      "moves": "d2a2 f8e7 g8g7 g4g5 a2a3 e7a3",
+      "rating": 2394,
+      "themes": "crushing discoveredAttack discoveredCheck endgame long master quietMove",
+      "gameUrl": "https://lichess.org/Fw8cYO3c/black#58"
+    },
+    {
+      "id": "CWo5P",
+      "fen": "rn1qk1nr/2p2ppp/p3b3/bp1P4/8/PQN2N2/3B1PPP/R3KB1R b KQkq - 0 11",
+      "moves": "a5c3 b3c3 e6d5 c3g7 d8f6 d2c3 f6g7 c3g7",
+      "rating": 2395,
+      "themes": "crushing opening veryLong",
+      "gameUrl": "https://lichess.org/wsiB0oCk/black#22"
+    },
+    {
+      "id": "XzvYU",
+      "fen": "3k4/2r2q2/7Q/3p4/2nP4/8/PPP5/K1R5 b - - 2 42",
+      "moves": "d8e7 c1g1 c4d6 g1g7",
+      "rating": 2397,
+      "themes": "crushing endgame pin quietMove short",
+      "gameUrl": "https://lichess.org/iFkXzmjD/black#84"
+    }
+  ]
+}
