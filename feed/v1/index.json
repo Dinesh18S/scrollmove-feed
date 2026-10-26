@@ -2,12 +2,12 @@
   "version": 1,
   "packs": [
     {
-      "id": "train-week-2026-10-19",
-      "title": "Master, week of 2026-10-19",
-      "publishedAt": "2026-10-19T00:00:00Z",
+      "id": "train-week-2026-10-26",
+      "title": "Master, week of 2026-10-26",
+      "publishedAt": "2026-10-26T00:00:00Z",
       "pro": true,
-      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-10-19.json",
-      "sha256": "59b4b260562d785ae0b8b2719d6069f739020bf295e2e39845712c5b3e518c58"
+      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-10-26.json",
+      "sha256": "6d2ac41c4054948a99d82fb0a711910ff5d1cb02590c40aa8e0d219fde0baf41"
     }
   ]
 }
