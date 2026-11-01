@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "foundingOfferUntil": "2026-12-13T22:59:00Z",
   "packs": [
     {
       "id": "train-week-2026-10-26",
@@ -7,7 +8,7 @@
       "publishedAt": "2026-10-26T00:00:00Z",
       "pro": true,
       "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-10-26.json",
-      "sha256": "6d2ac41c4054948a99d82fb0a711910ff5d1cb02590c40aa8e0d219fde0baf41"
+      "sha256": "6b893cc2f117b0d58104d8fa4fda1c577b0e11e6d6e2ec969b6445e1a1cd8aed"
     }
   ]
 }
