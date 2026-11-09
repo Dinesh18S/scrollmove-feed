@@ -1,13 +1,14 @@
 {
   "version": 1,
+  "foundingOfferUntil": "2026-12-13T22:59:00Z",
   "packs": [
     {
-      "id": "train-week-2026-11-02",
-      "title": "Master, week of 2026-11-02",
-      "publishedAt": "2026-11-02T00:00:00Z",
+      "id": "train-week-2026-11-09",
+      "title": "Master, week of 2026-11-09",
+      "publishedAt": "2026-11-09T00:00:00Z",
       "pro": true,
-      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-11-02.json",
-      "sha256": "dc174a46de7cb5923acdeb4b3dd0014b366df72255f43fc444be85f82c16f2ad"
+      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-11-09.json",
+      "sha256": "46e8822fca224c20d891ca00146f2e3651b26ff0753f1580f27afd4b2969a4a6"
     }
   ]
 }
