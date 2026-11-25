@@ -1,0 +1,38 @@
+{
+  "id": "match-week-1",
+  "title": "Match Week: Game 1",
+  "puzzles": [
+    {
+      "id": "mw1-01",
+      "fen": "r5r1/1pp1kp2/2n1b1pp/2p5/1bP2PP1/1P2B1NP/4R3/3RN1K1 w - - 2 26",
+      "moves": "f4f5 g6f5",
+      "rating": 1300,
+      "themes": "defensiveMove middlegame oneMove master",
+      "gameUrl": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-1/xLgOJ6cb/j7pdr7s2"
+    },
+    {
+      "id": "mw1-02",
+      "fen": "r5r1/1pp1kp2/2n1b1pp/2p2P2/1bP3P1/1P2B1NP/4R3/3RN1K1 b - - 0 26",
+      "moves": "g6f5 g3f5",
+      "rating": 1400,
+      "themes": "middlegame oneMove master",
+      "gameUrl": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-1/xLgOJ6cb/j7pdr7s2"
+    },
+    {
+      "id": "mw1-03",
+      "fen": "r2r4/1pp2pk1/2n4p/2p4R/2P3P1/1PbNB2P/8/3R2K1 w - - 3 32",
+      "moves": "e3h6 g7g8",
+      "rating": 1700,
+      "themes": "defensiveMove middlegame oneMove master",
+      "gameUrl": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-1/xLgOJ6cb/j7pdr7s2"
+    },
+    {
+      "id": "mw1-04",
+      "fen": "r2r2k1/1pp2p2/2n4B/2p3R1/2P3P1/1PbN3P/8/3R2K1 b - - 2 33",
+      "moves": "g8h7 g5h5",
+      "rating": 1500,
+      "themes": "defensiveMove hangingPiece middlegame oneMove master",
+      "gameUrl": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-1/xLgOJ6cb/j7pdr7s2"
+    }
+  ]
+}

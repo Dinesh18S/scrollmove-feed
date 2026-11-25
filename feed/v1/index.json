@@ -3,12 +3,21 @@
   "foundingOfferUntil": "2026-12-13T22:59:00Z",
   "packs": [
     {
-      "id": "train-week-2026-11-09",
-      "title": "Master, week of 2026-11-09",
-      "publishedAt": "2026-11-09T00:00:00Z",
+      "id": "match-week-1",
+      "title": "Match Week: Game 1",
+      "publishedAt": "2026-11-25T06:00:00Z",
+      "pro": false,
+      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/match-week-1.json",
+      "sha256": "9f441e886e95c44b41cd11d2b0a61c524c55cd1188229365c5fdbde6843d614d",
+      "blurb": "Sindarov vs Gukesh, drawn in 38 moves. Find the only moves they found."
+    },
+    {
+      "id": "train-week-2026-11-23",
+      "title": "Master, week of 2026-11-23",
+      "publishedAt": "2026-11-23T00:00:00Z",
       "pro": true,
-      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-11-09.json",
-      "sha256": "46e8822fca224c20d891ca00146f2e3651b26ff0753f1580f27afd4b2969a4a6"
+      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/train-week-2026-11-23.json",
+      "sha256": "1b2c7f6bf797b91c824486aa050fc1d1ede00a0a5ba7cc92ecc456adc288b20b"
     }
   ]
 }
