@@ -12,6 +12,16 @@
       "blurb": "Sindarov vs Gukesh, drawn in 38 moves. Find the only moves they found."
     },
     {
+      "id": "match-week-3",
+      "title": "Match Week: Game 3",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "pro": false,
+      "url": "https://dinesh18s.github.io/scrollmove-feed/feed/v1/packs/match-week-3.json",
+      "sha256": "b86ec243f6d3219d4af7920f8bb44b96be67eaebfa2190563ad3ce9e716b56dc",
+      "blurb": "Sindarov vs Gukesh, drawn in 60 moves. Two only moves saved the draw. Can you find them?",
+      "notify": true
+    },
+    {
       "id": "train-week-2026-11-23",
       "title": "Master, week of 2026-11-23",
       "publishedAt": "2026-11-23T00:00:00Z",

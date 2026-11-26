@@ -1,0 +1,22 @@
+{
+  "id": "match-week-3",
+  "title": "Match Week: Game 3",
+  "puzzles": [
+    {
+      "id": "mw3-01",
+      "fen": "8/8/b7/2p4p/P5kP/2Kp4/5B2/8 b - - 2 56",
+      "moves": "g4f3 f2e1",
+      "rating": 1600,
+      "themes": "defensiveMove endgame oneMove master",
+      "gameUrl": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-3/fnmEB1kH/RD8sbYw1"
+    },
+    {
+      "id": "mw3-02",
+      "fen": "8/8/b7/2p4p/P6P/2Kp1k2/8/4B3 b - - 4 57",
+      "moves": "f3e2 e1d2",
+      "rating": 1500,
+      "themes": "defensiveMove endgame oneMove master",
+      "gameUrl": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-3/fnmEB1kH/RD8sbYw1"
+    }
+  ]
+}
